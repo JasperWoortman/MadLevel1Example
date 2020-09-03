@@ -2,4 +2,9 @@
     <string name="app_name">MadLevel1Example</string>
     <string name="animal_label">What kind of animal is this?</string>
     <string name="animal_image"> Giraffe</string>
+    <string name="etAnswer_input"> Species</string>
+    <string name="button_confirm">Confirm</string>
+    <string name="giraffe">Giraffe</string>
+    <string name="correct">Correct!</string>
+    <string name="incorrect">Incorrect, the correct answer is Giraffe!</string>
 </resources>
